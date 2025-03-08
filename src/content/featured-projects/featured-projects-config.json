@@ -1,0 +1,56 @@
+[
+    {
+        "id": "featured-project-cust-churn",
+        "title": "End-to-End Customer Churn Prediction",
+        "year": "May 2024 - May 2024",
+        "location": "DA-IICT",
+        "demo": "https://www.github.com/shgupta1461",
+        "github": "https://www.github.com/shgupta1461/Customer-Churn-Project",
+        "tags": ["Python", "FastAPI", "streamlit", "AWS", "scikit-learn", "Deep Learning"],
+        "description": "Built an end-to-end churn prediction system, covering data preprocessing, model training, and deployment to provide seamless predictions for business needs.",
+        "image": "/assets/featured-projects/trackcta.webp",
+        "jpg": "/assets/featured-projects/trackcta.jpeg"
+    },
+    {
+        "id": "featured-project-algovest",
+        "title": "AlgoVest: Portfolio Recommendation System",
+        "year": "Feb 2024 - May 2024",
+        "location": "DA-IICT",
+        "demo": "https://www.github.com/shgupta1461",
+        "github": "https://www.github.com/shgupta1461/Portfolio-Recommendation-System",
+        "tags": ["Python", "pyportfolioopt", "K-Means", "scikit-learn", "statistics", "Research work", "MPT"],
+        "description": "Designed an automated recommender using MPT, K-means clustering, and greedy algorithms to optimize retail investment strategies.",
+        "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
+        "image": "/assets/featured-projects/asctb.webp",
+        "jpg": "/assets/featured-projects/asctb.jpeg"
+    },
+    {
+        "id": "featured-project-topicmodelling",
+        "title": "Topic Modeling on BBC news",
+        "year": "Feb 2024 - Mar 2024",
+        "location": "DA-IICT",
+
+        "tags": [
+            "Python",
+            "NLTK",
+            "scikit-learn"
+        ],
+        "demo": "https://www.github.com/shgupta1461",
+        "github": "https://www.github.com/shgupta1461/Topic-Modelling",
+        "description": "Used NLP and unsupervised learning techniques to uncover 5 key topics from extensive text data (2500 news headlines), aiding efficient content classification and organization.",
+        "readMore": "https://hrishikeshpaul.medium.com/scrapbook-a-micro-service-based-photo-sharing-application-3a8760681af6",
+        "image": "/assets/featured-projects/scrapbook.webp",
+        "jpg": "/assets/featured-projects/scrapbook.jpeg"
+    },
+    {
+        "id": "featured-project-credit-risk",
+        "location": "DA-IICT",
+        "title": "Credit Risk Analysis of Bank Customers",
+        "year": "Nov 2023 - Dec 2023",
+        "tags": ["Python", "scikit-learn", "numpy", "pandas", "matplotlib", "Machine Learning"],
+        "description": "Analyzed credit and demographic data to develop a classification model that assessed creditworthiness, guiding risk analysis and decision-making.",
+        "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
+        "image": "/assets/featured-projects/measure-ux.webp",
+        "jpg": "/assets/featured-projects/measure-ux.jpeg"
+    }
+]

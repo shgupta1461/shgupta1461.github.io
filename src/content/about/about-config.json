@@ -1,0 +1,96 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT)",
+            "degree": "Master of Science (M.S) in Data Science",
+            "duration": "Jul 2023 - May 2025",
+            "content": [
+                "GPA: 8.58/10",
+                "Courses: Data Structures & Alogorithms, Machine Learning, Deep Learning, Recommendation System, Big Data Processing, Information Retrieval, Corporate Finance, NLP, Generative AI"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "Gujarat Technological University (GTU)",
+            "degree": "Bachelors (B.Tech) in Electronics & Communication Engineering",
+            "duration": "Aug 2019 - May 2023",
+            "content": [
+                "GPA: 8.84/10",
+                "Courses: Digital System Design, Embedded Systems, VLSI Design, IoT, Machine Learning, Computer Networks, Image Processing"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "ISIR AI",
+            "position": "Intern, AI Engineer",
+            "duration": "Jan 2025 - Present",
+            "description": [
+                "Building RAG based ChatBot​",
+                "Multi Agent Architecture",
+                "Spearheaded the work on multiple reports for 5 priority clients to provide additional functionalities."
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "Indian Space Reasearch Organization (ISRO), Ahmedabad",
+            "position": "Intern, Research Engineer",
+            "duration": "Jan 2023 - Apr 2023",
+            "description": [
+                "Engineered a Reprogrammable Bias Generation system using MSP430FR5969 and LabVIEW, achieving 6 PWM signals with a single microcontroller.​",
+                "Optimized microcontroller pin usage, reducing spacecraft circuit space and saving nearly Rs 15k.",
+                "Collaborated with senior scientists, earned a recommendation for innovative problem-solving and work in a fast-paced challenging environment."
+            ]
+        },
+        {
+            "id": "exp-3",
+            "company": "Skylark Drones (CHANGE THIS)",
+            "position": "Software Engineer Intern",
+            "duration": "Jan 2019 - Jun 2019",
+            "description": [
+                "Developed a web app for mission planning, control and execution using Vue & Flask, thereby improving onside project performance by 22%.​",
+                "Designed an icon set for various functionalities using ​Illustrator​, which improved usability by 20%."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": [
+                "Python",
+                "C/C++",
+                "SQL"
+            ]
+        },
+        {
+            "title": "AI/ML Technologies",
+            "tools": ["Numpy", "Pandas", "Matplotlib", "scikit-learn", "HTML/CSS", "Recommendation System", "NLP", "LLM", "RAG", "Multi Agent Architecture", "AWS"]
+        },
+        {
+            "title": "Databases",
+            "tools": ["MongoDB", "SQLite", "MySQL"]
+        },
+
+        {
+            "title": "OS & Tools",
+            "tools": ["Windows", "Linux", "Git", "Docker"]
+        },
+        {
+            "title": "Frameworks",
+            "tools": [
+                "Keras",
+                "TensorFlow",
+                "streamlit",
+                "FastAPI",
+                "Langchain",
+                "Ollama",
+                "CrewAI",
+		"Langgraph",
+		"OpenAI"
+		"Llama"
+            ]
+        }
+    ]
+}
