@@ -1,9 +1,6 @@
-# Portfolio Template 🖐
-> Version 2 of a simple, minimal and responsive personal website template, built using React, TypeScript, HTML and SCSS.
+# Portfolio of Shubham Gupta 🖐
 
 ![Portfolio Template Banner](public/assets/readme/banner.png)
-
-💻  Live [demo](https://hpaul-v2.web.app/)
 
 ---
 
@@ -59,12 +56,12 @@ All the images are in `public/assets`.
 
 ## Connect
 
-- Website at <a href="https://hrishikeshpaul.github.io/" target="_blank">`https://hrishikeshpaul.github.io/`</a>
-- LinkedIn at <a href="https://www.linkedin.com/in/hrishikeshpaul/" target="_blank">`hrishikeshpaul`</a>
+- Website at <a href="https://shgupta1461.github.io/" target="_blank">`https://shgupta1461.github.io/`</a>
+- LinkedIn at <a href="https://www.linkedin.com/in/shgupta1461/" target="_blank">`shgupta1461`</a>
 
 ## License
 
-[![license](https://img.shields.io/github/license/hrishikeshpaul/portfolio-template?style=flat&logo=appveyor)](https://github.com/hrishikeshpaul/portfolio-template-v2/blob/master/LICENSE) 
+[![license]](https://github.com/shgupta1461) 
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2022 © <a href="https://hrishikeshpaul.github.io/" target="_blank">Hrishikesh Paul</a>
+- Copyright 2022 © <a href="https://shgupta1461.github.io/" target="_blank">Shubham Gupta</a>
